@@ -1,0 +1,10 @@
+Game outline:
+
+Create a webbased multiplayer game where the player controls a snake
+the snake will be controlled using the arrow keys on the keyboard or if the player its system allows it by using touch
+a maximum of 60 players can play on a single map, the slots are filled by npc / ai players until a real player joins the map. The npc with the lowest score will than be replaced.
+The map will generate several types of drops "sweets" (lets call them sweets for lack of a better term...) over time which a player can "eat" with his snake. The snake will grow in length for each sweet that has been consumed. 
+There will be smaller sweets (1 point) and slightly bigger ones (3 points). 
+Besides all the drops that will appear in random places on the map, another way to get bigger and longer is by killing other snakes on the maps. When a snake its head hits another snake (anywhere on the body) it will be destroyed, when destroyed it will drop "sweets" for its entire length. These can than be consumed. 
+A player is able to go over its own snake its body without getting killed. 
+There will be a list with up to 6 names visible in the top left of the screen, where it will be the top 5 players with the highest score and the player its own name and current place in the standings when he is outside of the top 5
