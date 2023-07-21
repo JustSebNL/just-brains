@@ -8,3 +8,7 @@ There will be smaller sweets (1 point) and slightly bigger ones (3 points).
 Besides all the drops that will appear in random places on the map, another way to get bigger and longer is by killing other snakes on the maps. When a snake its head hits another snake (anywhere on the body) it will be destroyed, when destroyed it will drop "sweets" for its entire length. These can than be consumed. 
 A player is able to go over its own snake its body without getting killed. 
 There will be a list with up to 6 names visible in the top left of the screen, where it will be the top 5 players with the highest score and the player its own name and current place in the standings when he is outside of the top 5
+In the bottom right corner will be a mini map. At all time the top 3 players will be displayed on the mini map by displaying a crown, the crown will mark the head of their snake. The number 3 will be displayed with a bronze coloured crown, the number 2 with a silver coloured crown and the number 1 will be displayed with a gold coloured crown.
+Create a point scheme for registered members that will give them points that will be calculated based upon accumulated points total and the amount of time that the player managed to stay alive for. 
+Create a shop where the accumulated points can be exchanged for different snake skins. 
+Registered users can go into their profile and change the name that is displayed in the high score list. 
